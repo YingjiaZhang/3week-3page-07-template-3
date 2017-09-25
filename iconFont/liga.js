@@ -31,6 +31,8 @@
             'group': '&#xe972;',
             'equalizer2': '&#xe993;',
             'sliders2': '&#xe993;',
+            'menu': '&#xe9bd;',
+            'list3': '&#xe9bd;',
             'share2': '&#xea82;',
             'social': '&#xea82;',
             'mail3': '&#xea84;',
