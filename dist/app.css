@@ -91,16 +91,16 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: rgba(0, 0, 0, 0.6);
-  width: 50%;
-  height: 50%;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 60%;
+  height: 40%;
   color: white;
 }
 
 .banner-button {
   background-color: #943a9e;
-  width: 50%;
-  height: 12%;
+  width: 60%;
+  height: 8%;
   margin-top: 10px;
   border: none;
   font-size: 2em;
@@ -164,7 +164,7 @@ header {
  .feature-item {
    display: inline-block;
    vertical-align:text-top;
-   width: 19%;
+   width: 23%;
    padding: 0 20px;
  }
 
@@ -182,7 +182,7 @@ header {
 
  .feature-item p {
    font-weight: 100;
-   font-size: 14px;
+   font-size: 16px;
    line-height: 25px;
    color: #856d5f;
    text-align: left;
@@ -217,8 +217,8 @@ header {
   .plugin-and-community-content {
     display: flex;
     flex-direction: row;
-    width: 60%;
-    margin:50px;
+    width: 85%;
+    margin:15px;
   }
 
   .plugin-and-community-content .content {
