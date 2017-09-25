@@ -93,7 +93,7 @@ header {
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.7);
   width: 60%;
-  height: 40%;
+  height: 45%;
   color: white;
 }
 
@@ -109,9 +109,9 @@ header {
 }
 
 .banner-content h1 {
-  font-size: 80px;
+  font-size: 70px;
   text-align: center;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .banner-content p {
